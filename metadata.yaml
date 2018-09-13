@@ -1,0 +1,41 @@
+_repo: Oeuvres-de-P-Corneille-Tome-07_51612
+_version: 0.0.1
+alternative_title: Oeuvres de P. Corneille, Tome 07
+creator:
+  author:
+    agent_name: Corneille, Pierre
+    birthdate: 1606
+    deathdate: 1684
+    gutenberg_agent_id: '960'
+    url: http://www.gutenberg.org/2009/agents/960
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/Pierre_Corneille
+    - http://en.wikipedia.org/wiki/Pierre_Corneille
+  editor:
+    agent_name: Marty-Laveaux, Charles Joseph
+    aliases:
+    - Marty-Laveaux, Ch. (Charles)
+    - Marty-Laveaux, Ch. (Charles Joseph)
+    birthdate: 1823
+    deathdate: 1899
+    gutenberg_agent_id: '37028'
+    url: http://www.gutenberg.org/2009/agents/37028
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2016-03-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51612'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French drama (Tragedy) -- 17th century'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: Agésilas, tragédie -- Attila, roi des Huns, tragédie -- Tite et Bérénice,
+  comédie héroïque -- Psyché, tragédie-ballet -- Pulchérie, comédie héroïque -- Suréna,
+  général des Parthes, tragédie.
+title: Œuvres de P. Corneille, Tome 07
+url: http://www.gutenberg.org/ebooks/51612

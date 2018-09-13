@@ -1,6 +1,9 @@
 _repo: Oeuvres-de-P-Corneille-Tome-07_51612
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Oeuvres de P. Corneille, Tome 07
+covers:
+- cover_type: archival
+  image_path: 51612-h/images/cover.jpg
 creator:
   author:
     agent_name: Corneille, Pierre
@@ -21,6 +24,8 @@ creator:
     gutenberg_agent_id: '37028'
     url: http://www.gutenberg.org/2009/agents/37028
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51612#Oeuvres-de-P-Corneille-Tome-07
 gutenberg_bookshelf: FR Théâtre
 gutenberg_issued: '2016-03-31'
 gutenberg_type: Text
